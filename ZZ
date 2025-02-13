@@ -1,0 +1,60 @@
+{
+    "urls": [
+        {
+            "url": "http://肥猫.com",
+            "name": "肥猫"
+         },
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://100km.top/0",
+            "name": "Ray"
+        },
+        {
+            "url": "http://www.mpanso.com/小米/DEMO.json",
+            "name": "小米"
+        },
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "王二小"
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+            "name": "老刘备"
+        },
+        {
+            "url": "http://rihou.cc:88/荷城茶秀",
+            "name": "荷城茶秀"
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "南风"
+        },
+        {
+            "url": "https://fmbox.cc",
+            "name": "星辰"
+        },
+        {
+            "url": "http://meowtv.cn/tv",
+            "name": "喵影视"
+        },
+        {
+            "url": "https://7337.kstore.space/twvip/自用测试.json",
+            "name": "天微"
+        },
+        {
+            "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
+            "name": "业余"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧技"
+        },
+        {
+            "url": "https://4k4k.shop",
+            "name": "大佬4K"
+        }
+    ]
+}
